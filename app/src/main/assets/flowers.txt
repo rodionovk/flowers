@@ -1,0 +1,146 @@
+Акация;acasia
+Акация;acasia2
+Амарантус;amarantus
+Амарантус;amarantus1
+Альстромерия;alstroemeria
+Альстромерия;alstroemeria1
+Альстромерия;alstroemeria2
+Анемон;anemon
+Анемон;anemon1
+Анемон;anem
+Амми;ammi
+Амми;ammi_bolshaya
+Антирринум;antirrhinum_majus
+Антирринум;antirrhinum_majus1
+Антирринум;anturr
+Артишок;artishok
+Артишок;artishok1
+Аспарагус;asparagus
+Аспарагус;asparagus1
+Астильбе;astilbe
+Астильбе;astilbe1
+Астильбе;ast
+Астра;astra
+Астра;astra1
+Астра;astra2
+Астра;astra3
+Астрантия;astrantia
+Астрантия;astrantia1
+Берзелия;berzelia
+Берзелия;berzelia1
+Брассика;brassica
+Брассика;brassica1
+Бруния;brunia
+Бруния;brunia1
+Буплеурум;bupleurum
+Буплеурум;bupleurum1
+Ваксфлауэр(хамелациум);vaksflauer
+Ваксфлауэр(хамелациум);vaksflauer1
+Ваксфлауэр(хамелациум);vaksflauer2
+Вероника;veronika
+Вероника;veronika1
+Вибурнум;Viburnum
+Вибурнум;Viburnum1
+Вибурнум ягоды;Viburnum2
+Гвоздика кустовая;gvoz
+Гвоздика кустовая;gvoz1
+Гвоздика;gvvozz
+Георгин;georgin
+Георгин;georgin1
+Георгин;georgin2
+Гербера;gerbera
+Гербера;gerbera1
+Гиперикум;giper
+Гиперикум;giper1
+Гортензия;gort
+Гортензия;gort1
+Дельфиниум;Delphinium
+Дельфиниум;Delphinium1
+Дельфиниум;Delphinium2
+Евпаториум;evpat
+Евпаториум;evpat1
+Илекс;ileks
+Илекс;ileks1
+Ирис;iris
+Ирис;iris1
+Калла;calla
+Калла;calla1
+Камилла;camilla
+Камилла;camilla1
+Клематис;clematis
+Клематис;clematis1
+Котинус;kotinus
+Котинус;kotinus1
+Краспедия;kraspe
+Краспедия;kraspe1
+Лаванда;lavender
+Лаванда;lavender1
+Лимониум;limoniu
+Лимониум;limoniu1
+Лимониум;limoniu2
+Маттиола;mattiola
+Маттиола;mattiola1
+Маттиола;mattiola2
+Мимоза;mimoz
+Мускари;Muscari
+Нобилис;nobil
+Нобилис;nobil1
+Орнитогалум;ornithogalum
+Орнитогалум;ornithogalum1
+Орхидея;orhid
+Паникум;aviaflora
+Паникум;aviaflora1
+Пион;pion
+Пион;pion1
+Пион;pion2
+Писташ;pista
+Писташ;pista1
+Питтоспорум;smolosem
+Питтоспорум;smolosem1
+Ранункулюс;ranunkulyus
+Ранункулюс;ranunkulyus1
+Роза пионовидная;rosas
+Роза кустовая;rosas1
+Сансет сафари;sanset
+Сансет сафари;sanset1
+Седум;Sedum
+Седум;Sedum1
+Сенецио;senet
+Серпурия;serpp
+Серпурия;serpp1
+Сетария;Setaria
+Скабиоза;Scabiosa
+Скабиоза;Scabiosa1
+Скабиоза;scab
+Скиммия;skimm
+Скиммия;skimm1
+Солидаго;Sold
+Солидаго;Sold1
+Тласпи;tlasp
+Трахеллиум;trax
+Трахеллиум;trax1
+Тюльпан пионовидный;tulip47
+Тюльпан пионовидный;tulip471
+Фрезия;freziya
+Фрезия;freziya1
+Хелеборус;heleb
+Хелеборус;heleb1
+Хелеборус;heleb2
+Хризантема Сантини;hris
+Хризантема Кустовая;hris1
+Целозия;celozija2
+Целозия;celozija21
+Эвкалипт бебиблю;evk
+Эвкалипт Популус;evk1
+Эвкалипт Николи;evk2
+Эвкалипт Парвифолия;evk3
+Эвкалипт Цинирея;evk4
+Эвкалипт Гунни;evk5
+Эрика;erica
+Эрика;erica1
+Эрингиум;ering
+Эрингиум;ering1
+Эустома;eus
+Эустома;eus1
+Эхеверия;ehever
+Эхеверия;ehever1
